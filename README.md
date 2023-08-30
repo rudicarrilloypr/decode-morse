@@ -35,42 +35,24 @@
 **Decode-Morse** you just found the lost treasure of the pirates! there is a message written in Morse code, let's decrypt the message with Ruby!
 
 ## 🛠 Built With <a name="built-with"></a>
-- Ruby on Rails
+- Ruby
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> PostgreSQL
+> Shell
 
-> SQL
+> IRB
 
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
+> Gemfile
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
-</details>
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- **Relational Databases**
-- **SQL tables**
-- **SQL syntax and queries**
+- **Morse Code Dictionary**
+- **Word Decoder**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -121,9 +103,7 @@ Clone this repository to your desired folder:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Query and update animals table**
-- [ ] **Query multiple tables**
-- [ ] **Database performance audit**
+- [ ] **Page to decode any morse codes**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
